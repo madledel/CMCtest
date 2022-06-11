@@ -1,0 +1,16 @@
+1. Install Appium Desktop and Appium Inspector
+2. Install Python and Pycharm
+3. Install Android SDK
+4. Install JUnit
+
+Appium Inspector setup
+{
+  "platformName": "Android",
+  "appium:deviceName": "redmi",
+  "appium:appPackage": "com.coinmarketcap.android",
+  "appium:appActivity": ".MainActivity",
+  "appium:noReset": true,
+  "appium:newCommandTimeout": 6000,
+  "appium:platformVersion": "10",
+  "appium:deviecName": "1946d9de0402"
+}
